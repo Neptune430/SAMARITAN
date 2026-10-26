@@ -1,0 +1,3 @@
+Samaritan practical test.
+This file is used to verify local text-file reading.
+The project demonstrates Python, AI integration, and SQLite memory.
