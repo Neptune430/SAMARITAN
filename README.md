@@ -430,12 +430,10 @@ By completing Samaritan, you practise:
 -   Command-line interface design.
 -   Basic security and privacy considerations for AI applications.
 
-## License
-
-No license has been specified for this project. If you plan to publish
-or distribute the code, choose and add an appropriate license file.
 
 ------------------------------------------------------------------------
 
 **Samaritan is a learning project:** understand each component, test it
 carefully, and improve it one feature at a time.
+
+Built by John Ofulue (J.O)
